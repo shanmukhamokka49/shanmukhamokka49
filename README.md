@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanmukharao Mokka</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Ai Agent from USA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukhamokka49&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukhamokka49" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanmukhamokka49" alt="shanmukhamokka49" /></a> </p>
-
 - 🔭 I’m currently working on **Optimizing a deep learning model for real-time inference on edge devices. (or a similarly focused and impactful ML project)**
 
 - 🌱 I’m currently learning **TensorFlow 2.x, PyTorch Lightning, MLOps practices (e.g., Kubeflow, CI/CD), and Advanced Statistical Modeling.**
