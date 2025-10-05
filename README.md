@@ -7,17 +7,13 @@
 
 - 👯 I’m looking to collaborate on **A Generative AI project focused on personalized content creation. (or a topic that requires cross-disciplinary skills)**
 
-- 🤝 I’m looking for help with **Finding experienced mentors for productionizing ML models.**
+- 🤝 I’m looking for help with **Optimizing model deployment strategies (e.g., Docker, Kubernetes) and securing a Machine Learning Engineering Internship/Job**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shanmukhamokka49/Projects.git](https://github.com/shanmukhamokka49/Projects.git)
+- 💬 Ask me about **Python, Scikit-learn, PyTorch, Model Evaluation, Natural Language Processing (NLP), and Data Visualization**.
 
-- 📝 I regularly write articles on [LinkedIn articles on 'The math behind transformer models' or 'Comparative analysis of ML classification algorithms.'](LinkedIn articles on 'The math behind transformer models' or 'Comparative analysis of ML classification algorithms.')
+- 🌱 I'm currently learning	 **Reinforcement Learning, Generative AI models, or MLOps practices like CI/CD and focusing on cloud technologies like {AWS/GCP/Azure}**.
 
-- 💬 Ask me about **Scikit-learn, PyTorch, Model Evaluation, Natural Language Processing (NLP), and Data Visualization**
-
-- 📫 How to reach me **mokkashanmukha78@gmail.com**
-
-- ⚡ Fun fact **I built a small recommendation engine for my university's library using collaborative filtering.**
+- ⚡ Fun fact **I enjoy data visualization and can spend hours tuning hyperparameters to achieve that extra 1% performance boost**.
 
 
 ## 🌐 Socials:
