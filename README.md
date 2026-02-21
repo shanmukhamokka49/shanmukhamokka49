@@ -177,8 +177,8 @@ I'm always excited to discuss AI/ML, collaborate on projects, or explore new opp
 
 - 💼 **Open to:** Full-time roles, consulting projects, research collaborations
 - 🌟 **Interested in:** Responsible AI, AI safety, democratizing AI access
-- 📫 **Best way to reach me:** [LinkedIn DM](your-linkedin) or your.email@domain.com
-- 🗓️ **Schedule a call:** [Calendly Link](calendly.com/yourprofile)
+- 📫 **Best way to reach me:** [LinkedIn DM](shanmukharaomokka7038) or mokkashanmukha78@gmail.com
+- 🗓️ **Schedule a call:** [Zoom Link] https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=shanmukhamokka%40gmail.com)
 
 **Fun Fact:** I built my first neural network to predict cricket match outcomes (it was terrible, but I was hooked!)
 
