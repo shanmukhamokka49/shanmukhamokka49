@@ -1,212 +1,157 @@
 # Hi, I'm Shanmukharao Mokka 👋
 
-## AI Engineer | ML Systems Architect | Building Intelligence at Scale
+**Junior AI / ML Engineer** · LLMs · RAG Systems · Fine-Tuning · MLOps
 
-I architect and deploy production-ready AI systems that solve real-world problems. Specializing in LLMs, computer vision, and scalable ML infrastructure shipping AI products used by millions.
+[LinkedIn](https://linkedin.com/in/shanmukharaomokka7038) · [Email](mailto:mokkashanmukha78@gmail.com) · [Portfolio](https://shanmukharao.dev) · [HuggingFace](https://huggingface.co/shanmukharao-mokka) · [Kaggle](https://kaggle.com/shanmukharaomokka)
 
-📍 San Francisco CA | 🌐 [Portfolio](your-portfolio.com) | 💼 [LinkedIn](https://www.linkedin.com/in/shanmukharaomokka7038/) | 📧 mokkashanmukha78@gmail.com.com
-
----
-
-## 🎯 What I'm Working On
-
-**Current Focus:** Building multimodal AI agents that combine vision, language, and reasoning
-
-- 🔬 Researching efficient fine-tuning methods for domain-specific LLMs (LoRA, QLoRA)
-- 🚀 Developing a RAG system with 40% improved retrieval accuracy using hybrid search
-- 🤖 Contributing to open-source AI frameworks (Hugging Face Transformers, LangChain)
-- 📊 Optimizing inference pipelines - reduced latency from 2.3s to 340ms
+> 🟢 **Actively seeking AI/ML Internships & Entry-Level roles — Available immediately**
+> 📍 Remote · Hybrid · US On-site | 📋 F-1 OPT · No immediate sponsorship needed
 
 ---
 
-## 💼 Featured Projects
+## About Me
 
-### 🧠 [Medical Diagnosis Assistant](github.com/yourprofile/medical-ai)
-**Production-grade AI system for preliminary medical screening**
+CS graduate specializing in AI/ML with hands-on experience building production LLM
+applications — RAG pipelines, fine-tuned open-source models, and autonomous AI agents.
+I write clean Python, understand the math behind transformers, and know how to take a
+model from prototype to a deployed API. I learn fast and I'm genuinely passionate about AI.
 
-- **Tech Stack:** PyTorch, GPT-4 API, FAISS, FastAPI, Docker, AWS
-- **Impact:** Processing 10k+ consultations/month with 94% accuracy
-- **Highlights:** 
-  - Implemented RAG architecture with medical literature knowledge base (200k+ documents)
-  - HIPAA-compliant deployment with end-to-end encryption
-  - Reduced average consultation time by 60%
-- **Metrics:** 15ms p95 latency, 99.9% uptime, scales to 1000 concurrent users
-
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](github.com/yourprofile/medical-ai)
+**B.S. Computer Science** — AI/ML Specialization | GPA: 3.8 / 4.0 | 2025
 
 ---
 
-### 🎨 [Real-Time Style Transfer Engine](github.com/yourprofile/style-transfer)
-**Neural style transfer optimized for mobile and edge devices**
+## Model Expertise
 
-- **Tech Stack:** TensorFlow Lite, CoreML, ONNX, React Native, Flask
-- **Impact:** 500k+ downloads, 4.8★ app store rating
-- **Highlights:**
-  - Reduced model size from 45MB to 3.2MB without quality loss (quantization + pruning)
-  - Achieved 30 FPS on iPhone 12 for real-time video processing
-  - Built custom training pipeline with automated A/B testing
-- **Recognition:** Featured on Product Hunt (Top 5 AI Product of the Week)
-
-[![Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](your-demo-link.com)
-
----
-
-### 📈 [Time Series Forecasting Platform](github.com/yourprofile/ts-forecaster)
-**Automated ML platform for business forecasting**
-
-- **Tech Stack:** Prophet, LSTM, XGBoost, Airflow, PostgreSQL, Streamlit
-- **Impact:** Improved forecast accuracy by 35% over traditional methods
-- **Highlights:**
-  - Ensemble model combining statistical and deep learning approaches
-  - Automated feature engineering pipeline (handles seasonality, trends, anomalies)
-  - Interactive dashboard for non-technical stakeholders
-- **Results:** Deployed at 3 Fortune 500 companies, managing $50M+ in inventory optimization
-
-[![Paper](https://img.shields.io/badge/Read-Paper-orange?style=for-the-badge)](arxiv-link)
-
----
-
-### 🔍 [Semantic Search Engine for Code](github.com/yourprofile/code-search)
-**AI-powered code search using transformer embeddings**
-
-- **Tech Stack:** Sentence-BERT, Elasticsearch, Python, React, Redis
-- **Impact:** 10x faster code discovery across 100k+ repositories
-- **Highlights:**
-  - Fine-tuned CodeBERT on 50M code snippets from GitHub
-  - Implemented approximate nearest neighbor search (HNSW) for sub-100ms queries
-  - Natural language interface: "function that validates email addresses"
-- **Open Source:** 2.3k ⭐ | 340 forks | 15 contributors
-
-[![Try It](https://img.shields.io/badge/Try-Online-brightgreen?style=for-the-badge)](demo-link.com)
-
----
-
-## 🛠️ Technical Skills
-
-### AI/ML Specializations
 ```
-Large Language Models    ████████████████████ 95%  (GPT-4, Claude, Llama 3, Fine-tuning)
-Computer Vision          ██████████████████░░ 90%  (CNNs, YOLO, SAM, Vision Transformers)
-NLP & LLMs              ████████████████████ 95%  (Transformers, RAG, Prompt Engineering)
-MLOps & Deployment      ███████████████████░ 92%  (Docker, K8s, AWS SageMaker, MLflow)
-Deep Learning           ████████████████████ 93%  (PyTorch, TensorFlow, JAX)
-```
+                     Proficiency                    Experience
+──────────────────────────────────────────────────────────────────────────────
+LLMs
+  GPT-4o / GPT-3.5   ████████████████████░  95%    API · Tool Use · Agents
+  LLaMA 3 8B/70B     ███████████████████░░  88%    LoRA Fine-Tune · Local Deploy
+  Mistral 7B         ██████████████████░░░  85%    QLoRA · GGUF · vLLM
+  Claude 3.5 Sonnet  ████████████████████░  92%    RAG · Long Context
 
-### Frameworks & Tools
-**AI/ML:** PyTorch • TensorFlow • Hugging Face • LangChain • LlamaIndex • OpenAI API • Anthropic API
+Embeddings & Search
+  text-embedding-3   ████████████████████░  95%    Semantic Search · Clustering
+  BGE-M3 / E5-Large  ███████████████████░░  88%    Multilingual · Hybrid Search
+  ColBERT / BM25     ███████████████░░░░░░  78%    Reranking · Sparse Retrieval
 
-**MLOps:** Docker • Kubernetes • MLflow • Weights & Biases • DVC • Airflow • GitHub Actions
-
-**Cloud & Infrastructure:** AWS (SageMaker, Lambda, EC2, S3) • GCP (Vertex AI) • Azure ML
-
-**Databases & Vector Stores:** PostgreSQL • MongoDB • Redis • Pinecone • FAISS • Weaviate • Chroma
-
-**Languages:** Python (Expert) • SQL • JavaScript • Rust (Learning)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🥇 **Kaggle Expert** - Top 2% in Computer Vision competitions (3 Gold, 5 Silver medals)
-- 🎓 **Research Publication** - "Efficient Fine-Tuning of LLMs for Domain Adaptation" (NeurIPS Workshop 2024)
-- 🏅 **Hackathon Winner** - Google AI Hackathon 2024 (Best ML Innovation)
-- 📝 **Tech Writer** - 50k+ monthly readers on Medium covering AI/ML tutorials
-- 🎤 **Conference Speaker** - PyData 2024: "Scaling LLMs in Production"
-- 💡 **Patent Pending** - Novel approach to few-shot learning in medical imaging
-
----
-
-## 📚 Continuous Learning
-
-Currently exploring:
-- **Multimodal AI:** GPT-4V, Gemini Vision, CLIP applications
-- **AI Agents:** AutoGPT, LangGraph, autonomous systems
-- **Efficient AI:** Model quantization, pruning, knowledge distillation
-- **Reinforcement Learning:** AlphaZero implementations, RLHF
-
-**Recent Certifications:**
-- AWS Certified Machine Learning – Specialty (2024)
-- DeepLearning.AI: LLM Specialization (2024)
-- TensorFlow Developer Certificate (2023)
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Building RAG Systems That Actually Work in Production](medium.com/your-post)
-- 🚀 [Fine-Tuning Llama 3 on a Single GPU: A Complete Guide](medium.com/your-post)
-- 💡 [Reducing LLM Inference Costs by 80% Using Smart Caching](medium.com/your-post)
-- 🎯 [From Jupyter Notebook to Production: MLOps Best Practices](medium.com/your-post)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [Read more on Medium](medium.com/@yourprofile)
-
----
-
-## 🤝 Open Source Contributions
-
-I believe in giving back to the community that taught me everything.
-
-- **Hugging Face Transformers** - Added support for Mistral 7B quantization (PR #27432)
-- **LangChain** - Contributed custom retriever for multi-index RAG (PR #12234)
-- **PyTorch Lightning** - Fixed distributed training bug affecting 1000+ users (PR #18765)
-- **FastAPI** - Improved documentation for async ML inference endpoints (PR #9876)
-
-Total Contributions: **150+ PRs merged** | **30+ projects contributed to** | **500+ issues resolved**
-
----
-
-## 💬 Let's Connect!
-
-I'm always excited to discuss AI/ML, collaborate on projects, or explore new opportunities.
-
-- 💼 **Open to:** Full-time roles, consulting projects, research collaborations
-- 🌟 **Interested in:** Responsible AI, AI safety, democratizing AI access
-- 📫 **Best way to reach me:** [LinkedIn DM](shanmukharaomokka7038) or mokkashanmukha78@gmail.com
-- 🗓️ **Schedule a call:** [Zoom Link] https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=shanmukhamokka%40gmail.com)
-
-**Fun Fact:** I built my first neural network to predict cricket match outcomes (it was terrible, but I was hooked!)
-
----
-
-<div align="center">
-
-### "Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke
-
-**Let's build some magic together! ✨**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-
-</div>
-
----
-
-## ⚡ Quick Stats
-
-```text
-🔭 Total Projects: 45+ repositories
-⭐ Total Stars: 8,500+
-🍴 Total Forks: 1,200+
-👥 Followers: 2,800+
-📦 NPM Packages: 3 published
-🐍 PyPI Packages: 5 published
+Vision & Audio
+  CLIP / OpenCLIP    ██████████████████░░░  85%    Zero-shot · Image Search
+  Whisper            ███████████████████░░  88%    ASR · Transcription Pipelines
+  LLaVA              ████████████░░░░░░░░░  65%    VQA · Image Captioning
+──────────────────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-*This README is automatically updated using GitHub Actions. Last updated: Sunday, January 18, 2026*
+## Architecture
+
+**RAG Pipeline**
+```
+ User Query
+     │
+     ▼
+ Query Rewrite (GPT-4o)  ──▶  Embed (BGE-M3)  ──▶  Vector DB (Pinecone + BM25)
+                                                              │
+                                                    Reranker (Cohere CE)
+                                                              │
+                                                      LLM (GPT-4o)  ──▶  Response
+```
+
+**LoRA Fine-Tuning Pipeline**
+```
+ Base Model (LLaMA 3 8B)
+     │
+     ├──▶  Freeze Weights
+     │
+     └──▶  Inject LoRA Adapters (r=16, α=32)
+                    │
+           Custom Dataset (Alpaca format)
+                    │
+           HF Trainer + bitsandbytes (4-bit NF4)
+                    │
+           ┌────────┴────────┐
+           ▼                 ▼
+      Merge + vLLM      GGUF → Ollama
+```
+
+**Transformer — How It Works**
+```
+ Token IDs  ──▶  Embeddings + Positional Encoding
+                          │
+              ┌───────────▼───────────┐
+              │   Multi-Head Attention │   Attention(Q,K,V) = softmax(QKᵀ/√dₖ)·V
+              └───────────┬───────────┘
+                    Add & LayerNorm
+              ┌───────────▼───────────┐
+              │   Feed-Forward Net    │   FFN(x) = max(0, xW₁+b₁)W₂+b₂
+              └───────────┬───────────┘
+                    Add & LayerNorm
+                          │
+                    × N Layers  ──▶  Linear  ──▶  Softmax  ──▶  Token
+```
+
+---
+
+## Projects
+
+| Project | Description | Stack | Result |
+|---------|-------------|-------|--------|
+| **[DocuMind](https://github.com/shanmukharao-mokka/documind)** | RAG chatbot answering questions over 10K+ internal PDFs using hybrid search, Cohere reranking, and GPT-4o streaming | LangChain, GPT-4o, Pinecone, FastAPI, Docker | Sub-2s latency |
+| **[LLaMA-3 Fine-Tuner](https://github.com/shanmukharao-mokka/llama3-finetuner)** | One-command QLoRA pipeline — raw dataset to quantized deployed model with full W&B experiment tracking | PyTorch, PEFT, bitsandbytes, W&B, Ollama | 4-bit, 8B params |
+| **[MultiModal Search](https://github.com/shanmukharao-mokka/multimodal-search)** | Natural language → image retrieval over 1M+ images using CLIP embeddings and Qdrant vector DB | CLIP, Qdrant, FastAPI, Streamlit | < 100ms retrieval |
+| **[AutoAgent](https://github.com/shanmukharao-mokka/autoagent)** | Autonomous LLM agent with tool calling, persistent memory, and multi-step planning for complex tasks | GPT-4o, OpenAI Functions, Redis, FastAPI | 5+ tool integrations |
+
+---
+
+## Tech Stack
+
+**AI / ML** — Python, PyTorch, HuggingFace Transformers, LangChain, LangGraph, OpenAI API, scikit-learn, PEFT, bitsandbytes, NLTK, spaCy
+
+**Vector & Search** — Pinecone, Qdrant, ChromaDB, FAISS, BM25, Cohere Rerank
+
+**Infrastructure** — FastAPI, Docker, AWS (EC2, S3, Lambda), PostgreSQL, Redis, Git
+
+**MLOps** — Weights & Biases, MLflow, GitHub Actions
+
+**Models** — GPT-4o, LLaMA 3, Mistral 7B, Claude 3.5, Whisper, CLIP, BGE-M3, Sentence-BERT
+
+---
+
+## Certifications
+
+| Credential | Issuer | Year |
+|---|---|:---:|
+| Deep Learning Specialization | DeepLearning.AI | 2024 |
+| LLMs with Python & HuggingFace | DeepLearning.AI | 2024 |
+| MLOps Specialization | DeepLearning.AI | 2024 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | 2023 |
+| Applied Data Science with Python | University of Michigan | 2023 |
+| LLM Science Exam — Top 15% | Kaggle | 2023 |
+
+---
+
+## Currently Learning
+
+| Status | Topic |
+|:---:|---|
+| ✅ | QLoRA · DPO Fine-Tuning · LangGraph · Pinecone · Qdrant |
+| 🔄 | OpenAI Realtime API · Multimodal Models · Voice Agents |
+| 📅 | CUDA Kernels · RLHF · AWS SageMaker · TensorRT |
+
+---
+
+## Open to Opportunities
+
+I'm looking for an AI/ML internship or entry-level role where I can contribute to real
+AI products from day one  not just run experiments, but help ship things. I ramp up
+fast and I'm at my best solving problems that haven't been solved before.
+
+**Target roles:** AI/ML Intern · ML Engineer (New Grad) · LLM/NLP Engineer · Data Science Intern
+
+📬 [mokkashanmukha78@gmail.com](mailto:mokkashanmukha78@gmail.com)
+🔗 [linkedin.com/in/shanmukharaomokka7038](https://linkedin.com/in/shanmukharaomokka7038)
+🌐 [shanmukharao.dev](https://shanmukharao.dev)
+
+---
