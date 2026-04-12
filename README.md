@@ -1,4 +1,4 @@
-# Hi, I'm [Shanmukharao Mokka] — AI Engineer
+# Hi, I'm Shanmukharao Mokka — AI Engineer
 
 **B.Tech CS 2026 · India · Remote-First · No US Visa Needed**
 
