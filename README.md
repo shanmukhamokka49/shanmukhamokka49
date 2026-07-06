@@ -16,9 +16,9 @@
 
 I build AI systems that work in production  not just in notebooks.
 
-Final-year B.Tech CS student focused entirely on applied AI: RAG pipelines, LLM applications, and end-to-end deployment. I ship things. I don't collect certificates.
+Final-year B.Tech CS student focused entirely on applied AI: RAG pipelines, LLM applications, and end-to-end deployment.
 
-Available for remote AI engineering roles, freelance AI projects, and contract work with US startups. No US visa or sponsorship required  ever.
+Available for remote AI engineering roles, freelance AI projects, and contract work with US startups.
 
 ---
 
