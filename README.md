@@ -1,4 +1,4 @@
-# Hi, I'm Shanmukharao Mokka — AI Engineer
+# Hi, I'm Shanmukharao Mokka —  CS Undergrad → AI/ML Intern
 
 **B.Tech CS 2026 · India · Remote-First**
 
@@ -14,11 +14,11 @@
 
 ## About me
 
-I build AI systems that work in production  not just in notebooks.
+I'm learning to build AI systems end-to-end — not just in notebooks, but toward real, working applications.
 
-Final-year B.Tech CS student focused entirely on applied AI: RAG pipelines, LLM applications, and end-to-end deployment.
+Final-year B.Tech CS student focused entirely on applied AI: RAG pipelines, LLM applications, and learning the path to deployment.
 
-Available for remote AI engineering roles, freelance AI projects, and contract work with US startups.
+Open to remote AI/ML internships, contract work, and freelance projects with global teams.
 
 ---
 
