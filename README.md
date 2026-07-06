@@ -1,6 +1,6 @@
 # Hi, I'm Shanmukharao Mokka — AI Engineer
 
-**B.Tech CS 2026 · India · Remote-First · No US Visa Needed**
+**B.Tech CS 2026 · India · Remote-First**
 
 ![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C5A?style=flat&logoColor=4fc3f7)
@@ -8,7 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Remote](https://img.shields.io/badge/Remote--First-238636?style=flat)
-![NoVisa](https://img.shields.io/badge/No%20US%20Visa%20Needed-8957e5?style=flat)
+
 
 ---
 
@@ -71,7 +71,6 @@ Learning    →  PyTorch · MLflow · AWS basics
 
 - Remote AI Engineer roles · LLM app development · RAG systems
 - US startups · Product companies · Contract & freelance
-- No US visa needed · Available immediately
 - IST timezone — overlaps with US EST mornings and PST afternoons
 
 **Reach me:** mokkashanmukha78@gmail.com · [LinkedIn](https://www.linkedin.com/in/shanmukharaomokka7038/)
