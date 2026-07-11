@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm learning to build AI systems end-to-end — not just in notebooks, but toward real, working applications.
+I'm learning to build AI systems end-to-end not just in notebooks, but toward real, working applications.
 
 Final-year B.Tech CS student focused entirely on applied AI: RAG pipelines, LLM applications, and learning the path to deployment.
 
