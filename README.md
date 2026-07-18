@@ -24,7 +24,13 @@ Open to remote AI/ML internships, contract work, and freelance projects with glo
 
 ## Neural Network Architecture
 
-<img width="950" height="438" alt="neural_network" src="https://github.com/user-attachments/assets/81647cb7-c711-4a8b-bd57-e8e4eee3e19e" /> <img width="950" height="438" alt="rag_diagram" src="https://github.com/user-attachments/assets/79afd90d-bb5d-4be7-b82d-af8ee2b81717" />
+<img width="950" height="438" alt="neural_network" src="https://github.com/user-attachments/assets/81647cb7-c711-4a8b-bd57-e8e4eee3e19e" /> 
+
+---
+
+## RAG Architecture
+
+<img width="950" height="438" alt="rag_diagram" src="https://github.com/user-attachments/assets/79afd90d-bb5d-4be7-b82d-af8ee2b81717" />
 
 
 
