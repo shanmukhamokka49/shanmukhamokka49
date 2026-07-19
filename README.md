@@ -1,5 +1,5 @@
 [![](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn)](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Hi%2C+I'm+Shanmukharao+Mokka;AI+%26+LLM+Engineer;RAG+Pipelines+%7C+LangChain+%7C+FastAPI;Built+a+Chatbot+Serving+10K%2B+Users)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Hi%2C+I'm+Shanmukharao+Mokka;AI+%26+ML+Engineer;RAG+Pipelines+%7C+LangChain+%7C+FastAPI)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/AI_Engineering_Intern-7C3AED?style=flat-square)](#) [![](https://img.shields.io/badge/CS_2026-B.Tech-9D4EDD?style=flat-square)](#) [![](https://img.shields.io/badge/Location-India%2C_Remote--First-6366F1?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
@@ -13,8 +13,7 @@
 
 I build AI systems that work in production, not just in notebooks.
 
-Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipelines, LLM applications, and end-to-end deployment. I ship things, and I've shipped a chatbot that served **10,000+ users** in the wild.
-
+Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipelines, LLM applications, and end-to-end deployment. I ship things
 **Open to:** Remote AI Engineering roles · LLM app development · Contract & freelance work · No visa sponsorship required
 
 ---
@@ -111,10 +110,6 @@ Open To:
 ```
 
 ---
-
-## Connect
-
-[![](https://img.shields.io/badge/Email-mokkashanmukha78%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokkashanmukha78@gmail.com) [![](https://img.shields.io/badge/LinkedIn-Shanmukharao_Mokka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukharaomokka7038/) [![](https://img.shields.io/badge/Kaggle-shanmukhamokka-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shanmukhamokka) [![](https://img.shields.io/badge/GitHub-shanmukhamokka49-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmukhamokka49)
 
 *Building at the intersection of AI, applied engineering, and shipping real products.*
 
