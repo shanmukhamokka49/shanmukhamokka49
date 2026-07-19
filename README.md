@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/AI_Engineering_Intern-7C3AED?style=flat-square)](#) [![](https://img.shields.io/badge/CS_2026-B.Tech-9D4EDD?style=flat-square)](#) [![](https://img.shields.io/badge/Location-India%2C_Remote--First-6366F1?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/Portfolio-Live_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#) [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukharaomokka7038/) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokkashanmukha78@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmukhamokka49)
+[![](https://img.shields.io/badge/Portfolio-Live_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#) [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukharaomokka7038/) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://3-d-portfolio-creator--mokkashanmukha7.replit.app) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokkashanmukha78@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmukhamokka49)
 
 [![](https://komarev.com/ghpvc/?username=shanmukhamokka49&color=7C3AED&style=flat-square&label=Profile+Views)](#) [![](https://img.shields.io/github/followers/shanmukhamokka49?style=flat-square&color=6366F1&label=Followers)](#) [![](https://img.shields.io/github/stars/shanmukhamokka49?style=flat-square&color=A78BFA&label=Stars)](#)
 
@@ -23,19 +23,16 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 
 ### Languages & Core
 
-[![](https://skillicons.dev/icons?i=python,cpp,java,js,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,mysql&theme=dark)](https://skillicons.dev)
 
 ### AI / ML & LLM Tooling
 
-[![](https://img.shields.io/badge/LangChain-1C3C5A?style=flat-square&logoColor=4fc3f7)](#) [![](https://img.shields.io/badge/OpenAI%20API-10a37f?style=flat-square&logo=openai&logoColor=white)](#) [![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](#)
+[![](https://img.shields.io/badge/LangChain-1C3C5A?style=flat-square&logoColor=4fc3f7)](#) [![](https://img.shields.io/badge/OpenAI%20API-10a37f?style=flat-square&logo=openai&logoColor=white)](#) [![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](#) [![](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#)
 
 ### Backend & Vector DBs
 
 [![](https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark)](https://skillicons.dev) [![](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)](#) [![](https://img.shields.io/badge/Pinecone-000000?style=flat-square)](#) [![](https://img.shields.io/badge/FAISS-3B5998?style=flat-square)](#)
 
-### Frontend & Deployment
-
-[![](https://skillicons.dev/icons?i=react,streamlit&theme=dark)](https://skillicons.dev) [![](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)](#) [![](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#)
 
 ---
 
@@ -82,12 +79,6 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 [![](https://github-readme-streak-stats.herokuapp.com/?user=shanmukhamokka49&theme=tokyonight&border_radius=10&hide_border=false)](https://github.com/shanmukhamokka49)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmukhamokka49&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8)](https://github.com/shanmukhamokka49)
-
----
-
-## GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=shanmukhamokka49&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)](https://github.com/shanmukhamokka49)
 
 ---
 
