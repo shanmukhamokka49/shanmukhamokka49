@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/badge/AI_Engineering_Intern-7C3AED?style=flat-square)](#) [![](https://img.shields.io/badge/CS_2026-B.Tech-9D4EDD?style=flat-square)](#) [![](https://img.shields.io/badge/Location-India%2C_Remote--First-6366F1?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-[![](https://img.shields.io/badge/Portfolio-Live_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](#) [![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukharaomokka7038/) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://3-d-portfolio-creator--mokkashanmukha7.replit.app) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokkashanmukha78@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmukhamokka49)
+[![](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shanmukharaomokka7038/) [![Portfolio](https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://3-d-portfolio-creator--mokkashanmukha7.replit.app) [![](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mokkashanmukha78@gmail.com) [![](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shanmukhamokka49)
 
 [![](https://komarev.com/ghpvc/?username=shanmukhamokka49&color=7C3AED&style=flat-square&label=Profile+Views)](#) [![](https://img.shields.io/github/followers/shanmukhamokka49?style=flat-square&color=6366F1&label=Followers)](#) [![](https://img.shields.io/github/stars/shanmukhamokka49?style=flat-square&color=A78BFA&label=Stars)](#)
 
@@ -22,7 +22,7 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 
 ### Languages & Core
 
-[![](https://skillicons.dev/icons?i=python,mysql&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,mysql,java,r,html,css,javascript&theme=dark)](https://skillicons.dev)
 
 ### AI / ML & LLM Tooling
 
