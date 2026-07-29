@@ -26,8 +26,7 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 
 ### AI / ML & LLM Tooling
 
-[![](https://img.shields.io/badge/LangChain-1C3C5A?style=flat-square&logoColor=4fc3f7)](#) [![](https://img.shields.io/badge/OpenAI%20API-10a37f?style=flat-square&logo=openai&logoColor=white)](#) [![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](#) [![](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#)
-
+[![](https://img.shields.io/badge/LangChain-1C3C5A?style=flat-square&logoColor=4fc3f7)](#) [![](https://img.shields.io/badge/OpenAI%20API-10a37f?style=flat-square&logo=openai&logoColor=white)](#) [![](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](#) [![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](#) [![](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](#) 
 ### Backend & Vector DBs
 
 [![](https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=dark)](https://skillicons.dev) [![](https://img.shields.io/badge/ChromaDB-6E56CF?style=flat-square)](#) [![](https://img.shields.io/badge/Pinecone-000000?style=flat-square)](#) [![](https://img.shields.io/badge/FAISS-3B5998?style=flat-square)](#)
