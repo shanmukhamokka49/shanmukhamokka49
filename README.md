@@ -23,6 +23,11 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 ### Languages & Core
 
 [![](https://skillicons.dev/icons?i=python,mysql,java,r,html,css,javascript&theme=dark)](https://skillicons.dev)
+<img align="right" width="420" height="280" alt="image" src="https://github.com/user-attachments/assets/86cfcd94-0661-46be-b70d-dce24341e97d" />
+
+
+
+
 
 ### AI / ML & LLM Tooling
 
