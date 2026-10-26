@@ -23,8 +23,6 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 ### Languages & Core
 
 [![](https://skillicons.dev/icons?i=python,mysql,java,r,html,css,javascript&theme=dark)](https://skillicons.dev)
-<img width="550" height="260" align = "Right" alt="ChatGPT Image Aug 23, 2026, 07_29_16 AM" src="https://github.com/user-attachments/assets/16d5f714-9c1e-4738-8271-d4b601897415" />
-
 
 
 
