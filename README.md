@@ -41,38 +41,80 @@ Final-year **B.Tech CS** student focused entirely on applied AI — RAG pipeline
 
 ## Featured Projects
 
-**QueryMind — PDF RAG Chatbot**
+### Multi-Model Resume Screening System
 
-> Chat with any PDF using natural language, deployed live on Hugging Face Spaces.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | LangChain · ChromaDB · OpenAI API · Streamlit · Python |
-| **What it does** | Ingests PDFs, chunks + embeds them, and answers natural-language questions with retrieval-augmented generation |
-| **Live Demo** | *(add your link here)* |
-| **Repository** | *(add your repo link here)* |
-
-**JobFit AI — Resume Analyzer**
-
-> Paste a job description + upload a resume, get a match score and rewrite suggestions.
+> Upload a resume and a job description, get a job-fit score with skill-match insights.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | OpenAI API (GPT-4o) · FastAPI · Streamlit · Python · Prompt Engineering |
-| **What it does** | Scores resume-to-JD fit and generates targeted rewrite suggestions via an LLM backend |
+| **Stack** | Streamlit · Python · TF-IDF · Scikit-learn · PDF Parsing |
+| **What it does** | Extracts text from PDF/text resumes, computes TF-IDF similarity against a job description, matches skills, and predicts overall job fit |
+| **Built with** | OpenAI Codex |
+| **Duration** | Sep 2026 – Oct 2026 |
 | **Live Demo** | *(add your link here)* |
 | **Repository** | *(add your repo link here)* |
 
-**VideoSnap — YouTube Summarizer**
+---
 
-> Paste a YouTube URL, get a clean summary in under 10 seconds.
+### AI Code Review System
+
+> Paste source code, get automated review feedback and a bug-risk prediction.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | LangChain · YouTube Transcript API · FastAPI · Python |
-| **What it does** | Pulls video transcripts and runs a LangChain summarization chain for instant TL;DRs |
+| **Stack** | Streamlit · Python · AST Analysis · TF-IDF · Logistic Regression |
+| **What it does** | Runs AST-based static checks on source code and uses a TF-IDF + logistic regression model to estimate bug risk |
+| **Built with** | OpenAI Codex |
+| **Duration** | Aug 2026 – Sep 2026 |
 | **Live Demo** | *(add your link here)* |
 | **Repository** | *(add your repo link here)* |
+
+---
+
+### Adaptive Learning System
+
+> Enter your quiz scores per topic, get a personalized study path.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Streamlit · Python · Scikit-learn · Logistic Regression |
+| **What it does** | Takes per-topic quiz inputs, estimates mastery with logistic regression, and generates a personalized study sequence |
+| **Built with** | OpenAI Codex |
+| **Duration** | Aug 2026 – Sep 2026 |
+| **Live Demo** | *(add your link here)* |
+| **Repository** | *(add your repo link here)* |
+
+---
+
+### Crop Disease Detection System
+
+> Upload a leaf image, get a likely disease and an explanation in your language.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Streamlit · Python · Computer Vision · RGB Color Analysis |
+| **What it does** | Analyzes uploaded leaf images using color features to identify likely plant diseases, with explanations in English, Telugu and Hindi |
+| **Built with** | OpenAI Codex |
+| **Duration** | Jun 2026 – Jul 2026 |
+| **Live Demo** | *(add your link here)* |
+| **Repository** | *(add your repo link here)* |
+
+---
+
+### Fake News Detection System
+
+> Paste a news article, find out whether it looks real or misleading.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Streamlit · Python · TF-IDF · Logistic Regression · NLP |
+| **What it does** | Classifies news text as real or fake using a TF-IDF + logistic regression pipeline and highlights the words that drove the prediction |
+| **Built with** | OpenAI Codex |
+| **Duration** | May 2026 – Jun 2026 |
+| **Live Demo** | *(add your link here)* |
+| **Repository** | *(add your repo link here)* |
+
+---
 
 ---
 
